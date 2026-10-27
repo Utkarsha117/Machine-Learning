@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.pkl
+*.joblib
+*.zip
+*.log
+
+backup/
+data/forecast_archive/
+data/*12months*.csv
+data/training_12months_*.csv
